@@ -1,4 +1,6 @@
 // Simple C++ program to display "Hello World" 
+//Author: Nathan Race <go9450@wayne.edu>
+
 // Header file for input output functions 
 #include<iostream>  
   
